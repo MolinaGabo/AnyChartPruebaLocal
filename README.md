@@ -45,4 +45,6 @@ Check details [here](https://www.anychart.com/buy/)
 
 If you have any questions regarding licensing - please contact us. <sales@anychart.com>
 
+[![Analytics](https://ga-beacon.appspot.com/UA-228820-4/Integrations/anychart-angular4?pixel&useReferer)](https://github.com/igrigorik/ga-beacon)
+
 
