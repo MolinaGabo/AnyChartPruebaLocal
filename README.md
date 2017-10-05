@@ -34,7 +34,15 @@ Since that, the demo can be launched in your browser:
 * [Technical Support](https://anychart.com/support)
 
 ## License
-[© AnyChart.com - JavaScript charts](http://www.anychart.com).
-Released under the [Apache 2.0 License](https://github.com/anychart-integrations/php-mysql-template/blob/master/LICENSE).
+AnyChart Angular4 integration sample includes two parts:
+- code of the integration sample that allows to use Javascript library (in this case, AnyChart) with Angular Framework. 
+You can use, edit, modify it, use it with other Javascript libraries 
+without any restrictions. It is released under [Apache 2.0 License](LICENSE).
+- AnyChart JavaScript library. It is released under Commercial license. 
+You can test this plugin with the trial version of AnyChart. Our trial version is 
+not limited by time and doesn't contain any feature limitations. 
+Check details [here](https://www.anychart.com/buy/) 
+
+If you have any questions regarding licensing - please contact us. <sales@anychart.com>
 
 
