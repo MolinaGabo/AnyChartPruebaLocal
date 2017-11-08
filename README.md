@@ -32,6 +32,7 @@ Since that, the demo can be launched in your browser:
 * [JavaScript API Reference](https://api.anychart.com)
 * [Code Playground](https://playground.anychart.com)
 * [Technical Support](https://anychart.com/support)
+* [Angular 4](https://angular.io/)
 
 ## License
 AnyChart Angular4 integration sample includes two parts:
