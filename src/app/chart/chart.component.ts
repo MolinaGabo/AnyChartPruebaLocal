@@ -1,6 +1,8 @@
+/// <reference types="anychart" />
 import {Component, OnInit, ViewChild} from '@angular/core';
 import { DemoDataProviderService } from '../demo-data-provider.service';
-import { Subscription }   from 'rxjs/Subscription';
+import { Subscription } from 'rxjs/Subscription';
+import 'anychart';
 
 
 @Component({
@@ -23,7 +25,7 @@ export class ChartComponent implements OnInit {
   chart: anychart.charts.Pie = null;
 
   ngOnInit() {
-    //Default data set mapping, hardcoded here.
+    // Default data set mapping, hardcoded here.
     this.chart = anychart.pie(this.dataService_.getData('data1'));
   }
 
